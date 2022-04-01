@@ -1,6 +1,7 @@
 body{
     margin: 0;
     font-family: 'Oswald', sans-serif;
+    
 }
 h1{
     font-size: 40px;
@@ -54,16 +55,13 @@ section{
     left: 40%;
     background-color: rgb(250, 90, 116);
     width: 300px;
-    height: 50px;
+    height: 20px;
     color: #fff;
     border-radius: 8px;
     text-align: center;
 }
-footer p{
-    text-align: center;
-    font-size: 12px;
-    background-image: url("images/footer-bg.png");
-}
+
+
 .middle-part{
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
